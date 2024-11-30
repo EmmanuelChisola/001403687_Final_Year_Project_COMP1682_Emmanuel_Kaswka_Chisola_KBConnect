@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124791319956",
+    "project_id": "kbc-db-d926a",
+    "storage_bucket": "kbc-db-d926a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124791319956:android:899d60fc2799f4ec267381",
+        "android_client_info": {
+          "package_name": "com.example.kbconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACVShVlKPF04Trs_5nPEgsvkXNQNi2tF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
